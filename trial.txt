@@ -3,3 +3,5 @@ git trial
 added new line
 
 testing fetch 2
+
+testing branch merge
